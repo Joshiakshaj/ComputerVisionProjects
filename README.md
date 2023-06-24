@@ -1,1 +1,1 @@
-# python-projects
+# Computer Vision Projects using Python
